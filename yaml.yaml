@@ -1,0 +1,24 @@
+skill: SDE
+description: This is a test description
+tech : 
+  DevOps:
+    tools:
+      - Jenkins
+      - Git
+      - Docker
+      - Kubernetes
+      - Terraform
+    description: This is a test description
+  Programming:
+    languages:
+      - Python
+      - Java
+      - JavaScript
+      - Go
+    description: This is a test description
+  Cloud:
+    providers:
+      - AWS
+      - Azure
+      - GCP
+    description: This is a test description
